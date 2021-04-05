@@ -19,7 +19,7 @@ const LegendariesService = {
         const diance = new LegendaryModel(5, 'Diance', '/images/diance.svg' ,'diance', 'bla bla  ipsum diance bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum', 'Bird',
         '1000,000','1000,000','1000,000','1000,000','1000,000','1000,000');
 
-        const xerneas = new LegendaryModel(6, 'Xerneas', '/images/xerneas.svg' ,'xernas', 'bla xerneas bla  ipsum diance bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum', 'Bird',
+        const xerneas = new LegendaryModel(6, 'Xerneas', '/images/xerneas.svg' ,'xerneas', 'bla xerneas bla  ipsum diance bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum bla bla bla lorem ipsum', 'Bird',
         '1000,000','1000,000','1000,000','1000,000','1000,000','1000,000');
 
         return [mewtwo, moltres, articuno, zapdos, diance, xerneas];
