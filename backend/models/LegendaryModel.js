@@ -12,5 +12,4 @@ function LegendaryModel(id, name, photo, slug , description, type, healthPoints,
     this.experience = experience;
     this.specialDefense = specialDefense;
 }
-
 module.exports = LegendaryModel;

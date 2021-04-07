@@ -1,6 +1,5 @@
 const LegendaryModel = require('../models/LegendaryModel')
 
-
 const LegendariesService = {
     listLegendaries: ()=>{
 
